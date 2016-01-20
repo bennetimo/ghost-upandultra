@@ -32,14 +32,14 @@ body * {
 }
 
 #header .blog-title {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Audiowide', cursive;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 60px;
   text-decoration: none;
   max-width: 1250px;
   width: 100%;
-  padding: 1.5rem 1.8rem;
+  padding: 10rem 1.8rem;
   margin: 0 auto;
 }
 
@@ -51,9 +51,20 @@ body * {
   padding: 0;
 }
 
+#header .blog-description {
+  font-family: 'Advent Pro', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  max-width: 1250px;
+  width: 100%;
+  padding: 0.5rem 1.8rem;
+  margin: 0 auto;
+}
+
 #header .taglist-wrapper {
   width: 100%;
-  background: #ffd00e;
+  background: #FFA91D;
   padding: 0;
 }
 
@@ -245,7 +256,7 @@ body * {
   margin: 0;
 }
 .social-item {
-    width: 25%;
+    width: 33.3%;
     float:left;
     color: #fff;
     text-decoration: none;
