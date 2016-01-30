@@ -9,6 +9,16 @@ body * {
   -o-box-sizing: border-box;
 }
 
+img[alt$="-fullwidth"]{ 
+  max-width:  100% !important; 
+  display: block;
+}
+
+img[alt$="-halfwidth"]{ 
+  max-width:  50% !important; 
+  display: block;
+}
+
 #header {
   padding: 0;
   background: #111;
