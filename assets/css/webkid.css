@@ -188,6 +188,10 @@ img[alt$="-halfwidth"]{
   margin-bottom: 2em;
 }
 
+.attribution {
+  font-size: 0.1em;
+}
+
 .box {
   background: #fff;
   padding: 1em;
