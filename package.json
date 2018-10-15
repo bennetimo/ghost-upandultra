@@ -1,4 +1,9 @@
 {
   "name": "ghost-upandultra",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "author": {
+    "name": "Tim Bennett",
+    "email": "2475478+bennetimo@users.noreply.github.com",
+    "url": "http://upandultra.com"
+  }
 }
